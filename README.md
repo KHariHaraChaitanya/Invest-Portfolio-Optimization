@@ -1,5 +1,5 @@
 Portfolio-Management-Using-Recurrent-Neural-Networks-RNNs-
-Applied LSTMs to model stock price movements, leveraging deep learning to capture non-linear temporal dy- namics in financial data.
+Applied LSTMs to model stock price movements, leveraging deep learning to capture non-linear temporal dynamics in financial data.
 
 Compared LSTM predictions with a multi-layer feedforward neural network to gain insights into the impact of recurrent connections and memory cells on model performance.
 
